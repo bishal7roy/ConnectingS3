@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\ConnectingS3\ConnectingS3\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\admin\source\repos\ConnectingS3\ConnectingS3\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\admin\source\repos\ConnectingS3\ConnectingS3\bin\Debug\netcoreapp2.1\win10-x64\ConnectingS3.exe
+C:\Users\admin\source\repos\ConnectingS3\ConnectingS3\bin\Debug\netcoreapp2.1\win10-x64\ConnectingS3.deps.json
+C:\Users\admin\source\repos\ConnectingS3\ConnectingS3\bin\Debug\netcoreapp2.1\win10-x64\ConnectingS3.runtimeconfig.json
+C:\Users\admin\source\repos\ConnectingS3\ConnectingS3\bin\Debug\netcoreapp2.1\win10-x64\ConnectingS3.runtimeconfig.dev.json
+C:\Users\admin\source\repos\ConnectingS3\ConnectingS3\bin\Debug\netcoreapp2.1\win10-x64\ConnectingS3.dll
+C:\Users\admin\source\repos\ConnectingS3\ConnectingS3\bin\Debug\netcoreapp2.1\win10-x64\ConnectingS3.pdb
+C:\Users\admin\source\repos\ConnectingS3\ConnectingS3\obj\Debug\netcoreapp2.1\win10-x64\ConnectingS3.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ConnectingS3\ConnectingS3\obj\Debug\netcoreapp2.1\win10-x64\ConnectingS3.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConnectingS3\ConnectingS3\obj\Debug\netcoreapp2.1\win10-x64\ConnectingS3.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ConnectingS3\ConnectingS3\obj\Debug\netcoreapp2.1\win10-x64\ConnectingS3.AssemblyInfo.cs
+C:\Users\admin\source\repos\ConnectingS3\ConnectingS3\obj\Debug\netcoreapp2.1\win10-x64\ConnectingS3.dll
+C:\Users\admin\source\repos\ConnectingS3\ConnectingS3\obj\Debug\netcoreapp2.1\win10-x64\ConnectingS3.pdb
